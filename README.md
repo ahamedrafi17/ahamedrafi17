@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ahamedrafi17
+- 👋 Hi, I’m Ahamed Rafi
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning the World
 - 💞️ I’m looking to collaborate on IT Companies
